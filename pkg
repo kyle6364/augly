@@ -1,0 +1,5 @@
+
+pip install python-magic-bin
+
+或者
+sudo apt-get install python3-magic
